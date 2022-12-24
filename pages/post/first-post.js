@@ -21,6 +21,9 @@ export default function FirstPost(){
             <h2>
                 <Link href='/'>Back to home</Link>
             </h2>
+            <h3>
+            <Link href='/post/Dallas-post'>Dallas Post</Link>
+            </h3>
         </Layout>
     );
 }
